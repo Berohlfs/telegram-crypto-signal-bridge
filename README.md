@@ -1,10 +1,10 @@
-# Trader
+# Telegram Crypto Signal Bridge
 
 An automated cryptocurrency trading script built with **Python** that listens to **Telegram channels** for token recommendations and executes real-time buy orders via the **Trojan bot**.
 
 ## Overview
 
-**Trader** is a bot that automates cryptocurrency trading based on signals received in Telegram messages. The script uses the **Telegram API** to monitor specific crypto-related channels. When a token recommendation is detected, the script triggers an automatic buy order using the **Trojan trading bot**.
+The script uses the **Telegram API** to monitor specific crypto-related channels. When a token recommendation is detected, the script triggers an automatic buy order using the **Trojan trading bot**.
 
 This project was deployed and ran successfully on **Replit**, transforming an initial investment of **$80 into over $5,000** in just **2.5 months**.
 
