@@ -1,8 +1,8 @@
-# Trader 🐍💰
+# Trader
 
 An automated cryptocurrency trading script built with **Python** that listens to **Telegram channels** for token recommendations and executes real-time buy orders via the **Trojan bot**.
 
-## 🚀 Overview
+## Overview
 
 **Trader** is a bot that automates cryptocurrency trading based on signals received in Telegram messages. The script uses the **Telegram API** to monitor specific crypto-related channels. When a token recommendation is detected, the script triggers an automatic buy order using the **Trojan trading bot**.
 
@@ -10,7 +10,7 @@ This project was deployed and ran successfully on **Replit**, transforming an in
 
 > ⚠️ The script is no longer running and is intended for **educational purposes only**.
 
-## 🧠 Features
+## Features
 
 - ✅ Telegram API integration for message listening and token redirection
 - ✅ Keyword detection to identify token recommendations  
@@ -18,7 +18,7 @@ This project was deployed and ran successfully on **Replit**, transforming an in
 - ✅ Deployment-ready setup (tested on Replit)  
 - ✅ Real-time crypto trading automation  
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python  
 - Telegram API (via `telethon`)  
